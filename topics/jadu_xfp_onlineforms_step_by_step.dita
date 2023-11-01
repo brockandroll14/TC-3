@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="jadu_xfp_onlineforms_step_by_step">
+    <title>Jadu XFP Online Forms Step by Step</title>
+    <shortdesc>Creating Online Forms </shortdesc>
+    <taskbody>
+        <context>This self-help guide takes you through the process of creating a form, setting up
+            the page elements (such as text fields, drop downs check boxes) and the corresponding
+            properties, and managing the submitted forms. Jadu XFP is also known as Jadu XForms
+            Professional and Jadu XForms Pro.<p/></context>
+        <steps>
+            <step>
+                <cmd>Accessing Jadu XFP: Log in to your Jadu XFP account or access the XFP platform
+                    through your organization's designated portal.</cmd>
+            </step>
+            <step>
+                <cmd>Creating a New Form: Once logged in, find the option to create a new form. This
+                    is typically located in the dashboard or similar menu.</cmd>
+            </step>
+            <step>
+                <cmd>Form Configuration: Configure your form's settings. This includes specifying a
+                    form title, description, and any additional information you want to provide to
+                    form users.</cmd>
+            </step>
+            <step>
+                <cmd>Adding Form Fields: Choose the type of fields you want to include in your form
+                    (text fields, checkboxes, radio buttons, dropdowns, etc) Add thes fields to your
+                    form, and configure their labels, options, and validation settings as needed.
+                </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

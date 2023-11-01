@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>University WebHelp</title>
+    <topicref href="topics/data_dcouments_files.dita">
+        <topicref href="topics/google_references.dita"/>
+        <topicref href="topics/google_drive_files_and_folders.dita"/>
+    </topicref>
+    <topicref href="topics/jadu_cxm_workflows.dita">
+        <topicref href="topics/jadu_xfp_onlineforms_step_by_step.dita"/>
+    </topicref>
+    <topicref href="topics/unify_tableau_connector.dita"/>
+</map>

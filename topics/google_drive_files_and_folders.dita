@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="google_drive_files_and_folders">
+    <title>Google Drive Files and Folders</title>
+    <shortdesc>Google Drive: Work with Files and Folders</shortdesc>
+    <conbody>
+        <p>The self-help guide for Google Drive offers step-by-step instructions for various common
+            tasks. These include organizing and locating files and folders, collaborating and
+            co-editing documents, and downloading and printing files.</p>
+        <p><b>Getting Started: What is Google Drive? </b></p>
+        <p>Google Drive is a versatile document creation, management, and collaborative tool
+            accessible to University of Minnesota students, faculty, staff, and alumni, made
+            available through Google Workspace for Education Plus.</p>
+    </conbody>
+</concept>

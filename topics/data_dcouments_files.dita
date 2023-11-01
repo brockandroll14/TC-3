@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="data_dcouments_files">
+    <title>Data, Documents &amp; Files</title>
+    <shortdesc>Working within Files and Folder</shortdesc>
+    <conbody>
+        <p><b>Box Secure Storage: Work with files and folders</b></p>
+        <p>Box Secure Storage is a cloud-based storage and collaboration solution tailored to align
+            with the University's stringent security standards, particularly those governing HIPAA
+            data. To comply with UMN security requirements, specific features of Box have been
+            either deactivated or fine-tuned to meet the stringent compliance criteria. This
+            versatile platform can securely accommodate a wide range of sensitive data, such as PHI,
+            SSN, and driver's license information, among others. However, please be aware that the
+            Box Secure Storage service is not suitable for PCI data, particularly data associated
+            with credit cardholders. </p>
+        <p><b>Get Started with Box</b></p>
+        <p>To create a Box account and enable Duo Multi-Factor Authentication, follow these
+            steps:</p>
+        <ol id="ol_kgw_xtn_gzb">
+            <li>
+                <p>Visit the Box account creation page on the UMN website.</p>
+            </li>
+            <li>
+                <p>Follow the account setup instructions, providing the necessary information.</p>
+            </li>
+            <li>
+                <p>During the setup process, you will be prompted to enable Duo Multi-Factor
+                    Authentication. This added security layer is mandatory for accessing UMN Box
+                    Secure Storage.</p>
+            </li>
+            <li>
+                <p>Follow the prompts to configure and link your Duo account to your Box
+                    account.</p>
+            </li>
+            <li>
+                <p>Once activated, you'll be required to use Duo Multi-Factor Authentication in
+                    addition to your password for enhanced security during login.</p>
+            </li>
+        </ol>
+        <p>By following these steps, you'll have a Box account with Duo Multi-Factor Authentication,
+            ensuring an extra level of protection for your UMN Box Secure Storage access.</p>
+    </conbody>
+</concept>

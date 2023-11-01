@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="unify_tableau_connector">
+    <title>Unify Tableau Connector </title>
+    <body>
+        <p>The Unify Tableau Connector, also known as Unify BI, is a web data connector designed to
+            empower Tableau users by enabling them to craft queries to UM Analytics subject areas
+            and retrieve data for the purpose of crafting reports and visualizations in Tableau. In
+            order to utilize the Unify Tableau Connector, it's imperative to possess Authoring
+            access to one or more UM Analytics subject areas. It's important to note that Unify BI
+            operates in accordance with an individual's UM Analytics security permissions;
+            functional or departmental accounts are not suitable for Unify BI data extractions.</p>
+        <p><b>Unify Tableau Connector: About</b></p>
+        <p>Unify BI is a valuable plugin designed to facilitate Tableau users' access to UM
+            Analytics as a robust data source. This plugin enables seamless export of UM Analytics
+            queries into Tableau for in-depth reporting and analysis. Unify BI boasts several
+            noteworthy features, including:</p>
+        <ol id="ol_kfr_rgv_gzb">
+            <li>
+                <p><b>Reporting on Governed Data Sources</b>: With Unify BI, Tableau users can
+                    effortlessly create reports within Tableau using UM Analytics data sources,
+                    ensuring compliance with governance and data management standards.</p>
+            </li>
+            <li>
+                <p><b>Utilizing Existing UM Analytics Reports</b>: Unify BI permits the
+                    incorporation of pre-existing UM Analytics reports directly into Tableau,
+                    streamlining the reporting process and leveraging the data that's already
+                    available.</p>
+            </li>
+            <li>
+                <p><b>Performing Joins in Tableau</b>: Tableau users can harness Unify BI to perform
+                    data joins between two UM Analytics data sources, enhancing their ability to
+                    analyze and visualize data relationships effectively.</p>
+            </li>
+        </ol>
+        <p>Unify BI serves as a bridge between UM Analytics and Tableau, empowering users to harness
+            the full potential of their data for insightful reporting and visualizations</p>
+    </body>
+</topic>

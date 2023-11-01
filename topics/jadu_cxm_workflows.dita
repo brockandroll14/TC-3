@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="jadu_cxm_workflows">
+    <title>Jadu CXM Workflows</title>
+    <body>
+        <p>This self-help guide provides a step-by-step walkthrough for establishing workflows for
+            Jadu XFP forms. It comprehensively outlines the steps involved in collecting the
+            necessary information, generating the case in CXM, and subsequently linking your XFP
+            form to the CXM system. </p>
+        <p><b>What is CXM? </b></p>
+        <p>Jadu CXM, the workflow component, is employed in tandem with Jadu XFP forms to facilitate
+            the creation and oversight of form routing and approval processes. CXM harnesses the
+            power of a business engine, constructing its workflow functionality through the
+            implementation of business rules and logical criteria. This synergy between CXM and XFP
+            streamlines and automates the handling of form-related processes within your
+            organization.</p>
+    </body>
+</topic>
