@@ -2,6 +2,8 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>University WebHelp</title>
+    <topicref href="topics/box_secure_storage.dita"/>
+    <topicref href="topics/unify_tableau_connector.dita"/>
     <topicref href="topics/data_dcouments_files.dita">
         <topicref href="topics/google_references.dita"/>
         <topicref href="topics/google_drive_files_and_folders.dita"/>
@@ -9,5 +11,4 @@
     <topicref href="topics/jadu_cxm_workflows.dita">
         <topicref href="topics/jadu_xfp_onlineforms_step_by_step.dita"/>
     </topicref>
-    <topicref href="topics/unify_tableau_connector.dita"/>
 </map>

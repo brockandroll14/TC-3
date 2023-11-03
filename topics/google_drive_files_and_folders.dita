@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="google_drive_files_and_folders">
-    <title>Google Drive Files and Folders</title>
+    <title>Google Drive</title>
     <shortdesc>Google Drive: Work with Files and Folders</shortdesc>
     <conbody>
         <p>The self-help guide for Google Drive offers step-by-step instructions for various common
@@ -11,5 +11,7 @@
         <p>Google Drive is a versatile document creation, management, and collaborative tool
             accessible to University of Minnesota students, faculty, staff, and alumni, made
             available through Google Workspace for Education Plus.</p>
+        <image href="../../../Downloads/g-suite-apps-page-header.png" id="image_svk_rff_3zb"/>
     </conbody>
+
 </concept>

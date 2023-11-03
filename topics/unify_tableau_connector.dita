@@ -2,6 +2,8 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="unify_tableau_connector">
     <title>Unify Tableau Connector </title>
+    <shortdesc> The "Unify Tableau Connector" is a software tool that enables seamless integration between Tableau, a popular data visualization platform, and various data sources.</shortdesc>
+    
     <body>
         <p>The Unify Tableau Connector, also known as Unify BI, is a web data connector designed to
             empower Tableau users by enabling them to craft queries to UM Analytics subject areas

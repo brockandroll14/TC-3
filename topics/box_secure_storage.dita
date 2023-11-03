@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="box_secure_storage">
+    <title>Box Secure Storage</title>
+    <shortdesc>Box Secure Storage is a cloud and collaboration service configured to meet the University security standards for HIPAA data. </shortdesc>
+    <refbody><table frame="all">
+        <title>Box Secure Storage</title>
+        <tgroup cols="3">
+            <colspec colname="col1" colwidth="1 in"/>
+            <colspec colname="col2" colwidth="2in"/>
+            <colspec colname="col3" colwidth="2in"/>
+            
+            <thead>
+                <row>
+                    <entry>Feature</entry>
+                    <entry>Description</entry>
+                    <entry>Benefits</entry>
+                </row>
+            </thead>
+            
+            <tbody>
+                <row>
+                    <entry>Encryption</entry>
+                    <entry>Box uses strong encryption to protect your data at rest and in transit.</entry>
+                    <entry>Enhanced data security.</entry>
+                </row>
+                <row>
+                    <entry>Access Controls</entry>
+                    <entry>Box allows you to define granular access controls, ensuring only authorized users can access your content.</entry>
+                    <entry>Control over who can view and edit your data.</entry>
+                </row>
+                <row>
+                    <entry>Compliance</entry>
+                    <entry>Box complies with industry and regulatory standards to keep your data safe and compliant.</entry>
+                    <entry>Meet legal and regulatory requirements with ease.</entry>
+                </row>
+                <row>
+                    <entry>Versioning</entry>
+                    <entry>Box provides version control, enabling you to track changes and recover previous versions of your files.</entry>
+                    <entry>Easy file version management.</entry>
+                </row>
+            </tbody>
+        </tgroup>
+    </table> 
+    </refbody>
+</reference>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/ashes-with-colors.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/Brock/Desktop/TC-3/university_webhelp.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">University WebHelp</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">University WebHelp</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="box_secure_storage"><resourceid appid="box_secure_storage" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Box Secure Storage</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Box Secure Storage is a cloud and collaboration service configured to meet the University security standards for HIPAA data. </shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="unify_tableau_connector"><resourceid appid="unify_tableau_connector" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Unify Tableau Connector </navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "> The "Unify Tableau Connector" is a software tool that enables seamless integration between Tableau, a popular data visualization platform, and various data sources.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="data_dcouments_files"><resourceid appid="data_dcouments_files" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Data, Documents &amp; Files</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Working within Files and Folder</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="google_references"><resourceid appid="google_references" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Google Drives and Folders</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">         Google Drives and Folders are core components of Google Workspace, providing cloud-based storage and organization of digital content.     </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="google_drive_files_and_folders"><resourceid appid="google_drive_files_and_folders" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Google Drive</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Google Drive: Work with Files and Folders</shortdesc></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="jadu_cxm_workflows"><resourceid appid="jadu_cxm_workflows" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Jadu CXM Workflows</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "> Jadu CXM is a customer experience management platform designed to help organizations deliver exceptional and personalized customer experiences. </shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="jadu_xfp_onlineforms_step_by_step"><resourceid appid="jadu_xfp_onlineforms_step_by_step" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Jadu XFP Online Forms Step by Step</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Creating Online Forms </shortdesc></topicmeta></topicref></topicref>
+</opentopic:map><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="box_secure_storage" oid="box_secure_storage" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Box Secure Storage</ph></title>
+    <shortdesc class="- topic/shortdesc ">Box Secure Storage is a cloud and collaboration service configured to meet the University security standards for HIPAA data. </shortdesc>
+    <refbody class="- topic/body        reference/refbody "><table class="- topic/table " frame="all" id="d137e97">
+        <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Box Secure Storage</ph></title>
+        <tgroup class="- topic/tgroup " cols="3">
+            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1 in" xtrc="colspec:1;9:54" xtrf="file:/C:/Users/Brock/Desktop/TC-3/topics/box_secure_storage.dita" style="width:1 in;"/>
+            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="2in" xtrc="colspec:2;10:53" xtrf="file:/C:/Users/Brock/Desktop/TC-3/topics/box_secure_storage.dita" style="width:2in;"/>
+            <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="2in" xtrc="colspec:3;11:53" xtrf="file:/C:/Users/Brock/Desktop/TC-3/topics/box_secure_storage.dita" style="width:2in;"/>
+            
+            <thead class="- topic/thead ">
+                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Feature</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Description</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">Benefits</entry></row>
+            </thead>
+            
+            <tbody class="- topic/tbody ">
+                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Encryption</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Box uses strong encryption to protect your data at rest and in transit.</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">Enhanced data security.</entry></row>
+                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Access Controls</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Box allows you to define granular access controls, ensuring only authorized users can access your content.</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">Control over who can view and edit your data.</entry></row>
+                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Compliance</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Box complies with industry and regulatory standards to keep your data safe and compliant.</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4">Meet legal and regulatory requirements with ease.</entry></row>
+                <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">Versioning</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">Box provides version control, enabling you to track changes and recover previous versions of your files.</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5">Easy file version management.</entry></row>
+            </tbody>
+        </tgroup>
+    </table> 
+    </refbody>
+</reference><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="unify_tableau_connector" oid="unify_tableau_connector" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Unify Tableau Connector </ph></title>
+    <shortdesc class="- topic/shortdesc "> The "Unify Tableau Connector" is a software tool that enables seamless integration between Tableau, a popular data visualization platform, and various data sources.</shortdesc>
+    
+    <body class="- topic/body ">
+        <p class="- topic/p ">The Unify Tableau Connector, also known as Unify BI, is a web data connector designed to
+            empower Tableau users by enabling them to craft queries to UM Analytics subject areas
+            and retrieve data for the purpose of crafting reports and visualizations in Tableau. In
+            order to utilize the Unify Tableau Connector, it's imperative to possess Authoring
+            access to one or more UM Analytics subject areas. It's important to note that Unify BI
+            operates in accordance with an individual's UM Analytics security permissions;
+            functional or departmental accounts are not suitable for Unify BI data extractions.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Unify Tableau Connector: About</b></p>
+        <p class="- topic/p ">Unify BI is a valuable plugin designed to facilitate Tableau users' access to UM
+            Analytics as a robust data source. This plugin enables seamless export of UM Analytics
+            queries into Tableau for in-depth reporting and analysis. Unify BI boasts several
+            noteworthy features, including:</p>
+        <ol class="- topic/ol " id="unique_2_Connect_42_ol_kfr_rgv_gzb" nd:nd-id="ol_kfr_rgv_gzb">
+            <li class="- topic/li ">
+                <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Reporting on Governed Data Sources</b>: With Unify BI, Tableau users can
+                    effortlessly create reports within Tableau using UM Analytics data sources,
+                    ensuring compliance with governance and data management standards.</p>
+            </li>
+            <li class="- topic/li ">
+                <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Utilizing Existing UM Analytics Reports</b>: Unify BI permits the
+                    incorporation of pre-existing UM Analytics reports directly into Tableau,
+                    streamlining the reporting process and leveraging the data that's already
+                    available.</p>
+            </li>
+            <li class="- topic/li ">
+                <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Performing Joins in Tableau</b>: Tableau users can harness Unify BI to perform
+                    data joins between two UM Analytics data sources, enhancing their ability to
+                    analyze and visualize data relationships effectively.</p>
+            </li>
+        </ol>
+        <p class="- topic/p ">Unify BI serves as a bridge between UM Analytics and Tableau, empowering users to harness
+            the full potential of their data for insightful reporting and visualizations</p>
+    </body>
+</topic><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="data_dcouments_files" oid="data_dcouments_files" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Data, Documents &amp; Files</ph></title>
+    <shortdesc class="- topic/shortdesc ">Working within Files and Folder</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Box Secure Storage: Work with files and folders</b></p>
+        <p class="- topic/p ">Box Secure Storage is a cloud-based storage and collaboration solution tailored to align
+            with the University's stringent security standards, particularly those governing HIPAA
+            data. To comply with UMN security requirements, specific features of Box have been
+            either deactivated or fine-tuned to meet the stringent compliance criteria. This
+            versatile platform can securely accommodate a wide range of sensitive data, such as PHI,
+            SSN, and driver's license information, among others. However, please be aware that the
+            Box Secure Storage service is not suitable for PCI data, particularly data associated
+            with credit cardholders. </p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Get Started with Box</b></p>
+        <p class="- topic/p ">To create a Box account and enable Duo Multi-Factor Authentication, follow these
+            steps:</p>
+        <ol class="- topic/ol " id="unique_3_Connect_42_ol_kgw_xtn_gzb" nd:nd-id="ol_kgw_xtn_gzb">
+            <li class="- topic/li ">
+                <p class="- topic/p ">Visit the Box account creation page on the UMN website.</p>
+            </li>
+            <li class="- topic/li ">
+                <p class="- topic/p ">Follow the account setup instructions, providing the necessary information.</p>
+            </li>
+            <li class="- topic/li ">
+                <p class="- topic/p ">During the setup process, you will be prompted to enable Duo Multi-Factor
+                    Authentication. This added security layer is mandatory for accessing UMN Box
+                    Secure Storage.</p>
+            </li>
+            <li class="- topic/li ">
+                <p class="- topic/p ">Follow the prompts to configure and link your Duo account to your Box
+                    account.</p>
+            </li>
+            <li class="- topic/li ">
+                <p class="- topic/p ">Once activated, you'll be required to use Duo Multi-Factor Authentication in
+                    addition to your password for enhanced security during login.</p>
+            </li>
+        </ol>
+        <p class="- topic/p ">By following these steps, you'll have a Box account with Duo Multi-Factor Authentication,
+            ensuring an extra level of protection for your UMN Box Secure Storage access.</p>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="google_references" oid="google_references" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Google Drives and Folders</ph></title>
+    <shortdesc class="- topic/shortdesc ">
+        Google Drives and Folders are core components of Google Workspace, providing cloud-based storage and organization of digital content.
+    </shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            Google Drives and Folders are fundamental elements of Google Workspace, a cloud-based productivity and collaboration suite. They play a central role in managing and organizing digital content for individuals and teams.
+        </p>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Google Drive</title>
+            <p class="- topic/p ">
+                <ph class="- topic/ph ">Google Drive</ph> is a cloud storage service offered by Google. It serves as a secure repository for various types of digital files, such as documents, images, videos, and more. Key features of Google Drive include:
+            </p>
+            <ul class="- topic/ul ">
+                <li class="- topic/li ">File Storage: Users can upload, store, and manage files of different formats in Google Drive.</li>
+                <li class="- topic/li ">Real-time Collaboration: Google Drive supports real-time collaboration on documents, enabling multiple users to edit and comment simultaneously.</li>
+                <li class="- topic/li ">Integration: It seamlessly integrates with other Google Workspace apps like Google Docs, Sheets, and Slides.</li>
+                <li class="- topic/li ">Access Control: Users can control access to their files, sharing them with specific individuals or making them publicly accessible.</li>
+                <li class="- topic/li ">Sync: Google Drive offers synchronization with local devices, making files accessible both online and offline.</li>
+            </ul>
+        </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Google Folders</title>
+            <p class="- topic/p ">
+                <ph class="- topic/ph ">Google Folders</ph>, often referred to as <ph class="- topic/ph ">Google Drive Folders</ph>, are organizational containers within Google Drive. They are used to structure and categorize files, providing an efficient way to manage and locate content. Key features of Google Folders include:
+            </p>
+            <ul class="- topic/ul ">
+                <li class="- topic/li ">Organization: Folders allow users to group related files together, creating a logical structure for their content.</li>
+                <li class="- topic/li ">Access Control: Folder-level permissions can be set, ensuring that only authorized users can view or edit the folder's contents.</li>
+                <li class="- topic/li ">Collaboration: Folders can be shared with others, facilitating collaborative work on a set of documents within the folder.</li>
+                <li class="- topic/li ">Search and Navigation: Folders aid in easy searching and navigation within Google Drive, improving content discoverability.</li>
+                <li class="- topic/li ">Drag-and-Drop: Users can drag and drop files into folders, simplifying the process of file organization.</li>
+            </ul>
+        </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">Conclusion</title>
+            <p class="- topic/p ">
+                In summary, Google Drives and Folders are integral components of Google Workspace, enhancing productivity and content management. Google Drive offers cloud storage and collaboration capabilities, while Google Folders provide a structured way to organize and categorize digital content. Understanding how to effectively utilize Google Drives and Folders is essential for efficient digital asset management and collaborative work in the cloud.
+            </p>
+        </section>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="google_drive_files_and_folders" oid="google_drive_files_and_folders" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Google Drive</ph></title>
+    <shortdesc class="- topic/shortdesc ">Google Drive: Work with Files and Folders</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The self-help guide for Google Drive offers step-by-step instructions for various common
+            tasks. These include organizing and locating files and folders, collaborating and
+            co-editing documents, and downloading and printing files.</p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Getting Started: What is Google Drive? </b></p>
+        <p class="- topic/p ">Google Drive is a versatile document creation, management, and collaborative tool
+            accessible to University of Minnesota students, faculty, staff, and alumni, made
+            available through Google Workspace for Education Plus.</p>
+        <image class="- topic/image " dita-ot:image-width="602" dita-ot:image-height="378" href="file:/C:/Users/Brock/Downloads/g-suite-apps-page-header.png" id="unique_5_Connect_42_image_svk_rff_3zb" nd:nd-id="image_svk_rff_3zb" placement="inline"/>
+    </conbody>
+
+</concept></concept><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="jadu_cxm_workflows" oid="jadu_cxm_workflows" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Jadu CXM Workflows</ph></title>
+    <shortdesc class="- topic/shortdesc "> Jadu CXM is a customer experience management platform designed to help organizations deliver exceptional and personalized customer experiences. </shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p ">This self-help guide provides a step-by-step walkthrough for establishing workflows for
+            Jadu XFP forms. It comprehensively outlines the steps involved in collecting the
+            necessary information, generating the case in CXM, and subsequently linking your XFP
+            form to the CXM system. </p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">What is CXM? </b></p>
+        <p class="- topic/p ">Jadu CXM, the workflow component, is employed in tandem with Jadu XFP forms to facilitate
+            the creation and oversight of form routing and approval processes. CXM harnesses the
+            power of a business engine, constructing its workflow functionality through the
+            implementation of business rules and logical criteria. This synergy between CXM and XFP
+            streamlines and automates the handling of form-related processes within your
+            organization.</p>
+    </body>
+<task class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="jadu_xfp_onlineforms_step_by_step" oid="jadu_xfp_onlineforms_step_by_step" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Jadu XFP Online Forms Step by Step</ph></title>
+    <shortdesc class="- topic/shortdesc ">Creating Online Forms </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">This self-help guide takes you through the process of creating a form, setting up
+            the page elements (such as text fields, drop downs check boxes) and the corresponding
+            properties, and managing the submitted forms. Jadu XFP is also known as Jadu XForms
+            Professional and Jadu XForms Pro.<p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Accessing Jadu XFP: Log in to your Jadu XFP account or access the XFP platform
+                    through your organization's designated portal.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Creating a New Form: Once logged in, find the option to create a new form. This
+                    is typically located in the dashboard or similar menu.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Form Configuration: Configure your form's settings. This includes specifying a
+                    form title, description, and any additional information you want to provide to
+                    form users.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Adding Form Fields: Choose the type of fields you want to include in your form
+                    (text fields, checkboxes, radio buttons, dropdowns, etc) Add thes fields to your
+                    form, and configure their labels, options, and validation settings as needed.
+                </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic></map>
