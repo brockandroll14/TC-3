@@ -1,0 +1,2 @@
+// Auto generated index for searching.
+var index2 = {"files":"1*12*-1$7$q$13","folders":"1*11*-1$8$r","getting":"1*5*14","google":"1*48*-1$0$2$4$d$17$19$1r","guide":"1*0*c","help":"0*20*2,1*0*b","include":"1*0*n","instructions":"1*0*j","locating":"1*0*p","made":"1*0*1o","management":"1*0*1e","minnesota":"1*0*1j","offers":"1*0*f","organizing":"1*0*o","plus":"1*0*1u","printing":"1*0*12","self":"1*0*a"};

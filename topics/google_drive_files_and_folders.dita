@@ -11,7 +11,9 @@
         <p>Google Drive is a versatile document creation, management, and collaborative tool
             accessible to University of Minnesota students, faculty, staff, and alumni, made
             available through Google Workspace for Education Plus.</p>
-        <image href="../../../Downloads/g-suite-apps-page-header.png" id="image_svk_rff_3zb"/>
+        
+            <image href="../images/g-suite-apps-page-header.png"> </image>
+            
     </conbody>
 
 </concept>

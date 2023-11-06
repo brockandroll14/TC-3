@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
+   <appContext helpID="box_secure_storage" path="topics/box_secure_storage.html"/>
    <appContext helpID="unify_tableau_connector"
                path="topics/unify_tableau_connector.html"/>
    <appContext helpID="data_dcouments_files" path="topics/data_dcouments_files.html"/>
@@ -9,5 +10,4 @@
    <appContext helpID="jadu_cxm_workflows" path="topics/jadu_cxm_workflows.html"/>
    <appContext helpID="jadu_xfp_onlineforms_step_by_step"
                path="topics/jadu_xfp_onlineforms_step_by_step.html"/>
-   <appContext helpID="box_secure_storage" path="topics/box_secure_storage.html"/>
 </map>

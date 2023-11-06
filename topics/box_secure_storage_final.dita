@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="box_secure_storage_final">
+    <title>Box Secure Storage  </title>
+    <shortdesc>Box Secure Storage provides a secure and efficient solution for storing and managing your data.</shortdesc>
+    <refbody>
+        <table frame="all">
+            <tgroup cols="2">
+                <colspec colname="col1" colwidth="20%"/>
+                <colspec colname="col2" colwidth="80%"/>
+                <tbody>
+                    <row>
+                        <entry>Description</entry>
+                        <entry>
+                            Box Secure Storage is a comprehensive and secure data storage solution that ensures the protection of your data at rest and in transit. It offers robust encryption, access controls, compliance with industry standards, and efficient versioning features.
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>Key Features</entry>
+                        <entry>
+                            <ul>
+                                <li>
+                                    <p><b>Encryption:</b> Box uses strong encryption to protect your data from unauthorized access.</p>
+                                </li>
+                                <li>
+                                    <p><b>Access Controls:</b> Define granular access controls to manage who can access your data.</p>
+                                </li>
+                                <li>
+                                    <p><b>Compliance:</b> Box complies with industry and regulatory standards, ensuring data security and compliance.</p>
+                                </li>
+                                <li>
+                                    <p><b>Versioning:</b> Box provides version control for tracking changes and recovering previous file versions.</p>
+                                </li>
+                            </ul>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>Benefits</entry>
+                        <entry>
+                            <ul>
+                                <li>
+                                    <p>Enhanced data security.</p>
+                                </li>
+                                <li>
+                                    <p>Control over who can view and edit your data.</p>
+                                </li>
+                                <li>
+                                    <p>Meet legal and regulatory requirements with ease.</p>
+                                </li>
+                                <li>
+                                    <p>Easy file version management.</p>
+                                </li>
+                            </ul>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+         </refbody>
+</reference>

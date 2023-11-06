@@ -114,7 +114,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>university_webhelp.ditamap</String>
+                                    <String>topics/google_drive_files_and_folders.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -134,20 +134,23 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>topics/google_drive_files_and_folders.dita</String>
+                                    <String>university_webhelp.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>3/dita-extension/dita-extension.exf/DITA Customization/DITA HTML5</String>
+                                        <String>Project to WebHelp Responsive</String>
+                                        <String>Project to  PDF - based on HTML5 &amp; CSS</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
                                     <list>
+                                        <Byte>2</Byte>
                                         <Byte>2</Byte>
                                     </list>
                                 </field>
@@ -375,7 +378,7 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>${cfd}/out/docs</String>
+                                    <String>${cfd}/docs</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>${cfd}/temp/webhelp-responsive</String>

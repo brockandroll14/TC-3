@@ -164,7 +164,9 @@
         <p class="- topic/p ">Google Drive is a versatile document creation, management, and collaborative tool
             accessible to University of Minnesota students, faculty, staff, and alumni, made
             available through Google Workspace for Education Plus.</p>
-        <image class="- topic/image " dita-ot:image-width="602" dita-ot:image-height="378" href="file:/C:/Users/Brock/Downloads/g-suite-apps-page-header.png" id="unique_5_Connect_42_image_svk_rff_3zb" nd:nd-id="image_svk_rff_3zb" placement="inline"/>
+        
+            <image class="- topic/image " dita-ot:image-width="602" dita-ot:image-height="378" href="file:/C:/Users/Brock/Desktop/TC-3/images/g-suite-apps-page-header.png" placement="inline"> </image>
+            
     </conbody>
 
 </concept></concept><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="jadu_cxm_workflows" oid="jadu_cxm_workflows" specializations="@props/deliveryTarget">

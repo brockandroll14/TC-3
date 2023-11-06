@@ -1,0 +1,2 @@
+// Auto generated index for searching.
+var index1 = {"accessible":"1*0*1h","alumni":"1*0*1n","available":"1*0*1p","co":"1*0*u","co-editing":"1*0*t","collaborating":"1*0*s","collaborative":"1*0*1f","common":"1*0*l","context":"0*20*0","creation":"1*0*1d","document":"1*0*1c","documents":"1*0*10","downloading":"1*0*11","drive":"1*47*-1$1$3$5$e$18$1a","editing":"1*0*v","education":"1*0*1t","faculty":"1*0*1l"};
